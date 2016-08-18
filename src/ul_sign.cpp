@@ -1,6 +1,6 @@
 #include <cstdint>
 #include <cstring>
-#include "../include/ul_prime.h"
+#include "ul_prime.h"
 
 int create_sign_fs64(const char *psrc, int slen, uint32_t *sign1,
                      uint32_t *sign2) {

@@ -1,4 +1,4 @@
-#include "../include/ul_prime.h"
+#include "ul_prime.h"
 
 uint32_t Mod_Prime_List_1[256] = {
     256,      65536,    3,        768,      196608,   9,        2304,

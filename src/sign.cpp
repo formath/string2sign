@@ -4,8 +4,8 @@
 #include <sstream>
 #include <string>
 #include <vector>
-#include "../include/ul_sign.h"
-#include "../include/util.h"
+#include "ul_sign.h"
+#include "util.h"
 
 using namespace std;
 
